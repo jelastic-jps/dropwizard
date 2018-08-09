@@ -19,6 +19,6 @@ Press Deploy to get an account and deploy to a certified Jelastic partner from t
 
 [![deploy](../images/deploy-to-jelastic.png)](https://jelastic.com/install-application/?manifest=https://raw.githubusercontent.com/jelastic-jps/dropwizard/master/microservice-fat-jar/manifest.jps)
 
-### Managed Hosting Business on Spring Boot Based Microservices
+### Managed Hosting Business on Dropwizard Fat Microservices
 
 To start offering this solution to your customers please follow to [Managed PaaS Hosting Business](https://jelastic.com/apaas/) 
