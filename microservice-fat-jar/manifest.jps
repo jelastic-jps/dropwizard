@@ -2,7 +2,7 @@
 type: install
 version: 1.4
 id: dropwizard-fat-jar
-name: Dropwizard Fat Jar Microservice
+name: DropWizard Fat Jar Builder
 baseUrl: https://raw.githubusercontent.com/jelastic-jps/dropwizard/master
 logo: /images/dropwizard-logo.png
 homepage: https://github.com/jelastic-jps/dropwizard/tree/master/microservice-fat-jar
