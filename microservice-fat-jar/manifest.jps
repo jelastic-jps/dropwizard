@@ -6,7 +6,9 @@ name: DropWizard Fat Jar Builder
 baseUrl: https://raw.githubusercontent.com/jelastic-jps/dropwizard/master
 logo: /images/dropwizard-logo.png
 homepage: https://github.com/jelastic-jps/dropwizard/tree/master/microservice-fat-jar
-description: /text/description-fat-jar.md 
+description: 
+  text: /text/description-fat-jar.md 
+  short: Example of Microservice based on Dropwizard Fat Jar
 
 categories:
   - apps/dev-and-admin-tools
