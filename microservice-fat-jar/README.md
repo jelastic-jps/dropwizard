@@ -7,7 +7,7 @@ Import the required manifest using the link from GitHub:
 
 If required, change installation settings such as environment name or Git repository link to a custom DropWizard project. Then press *Install*.
 
-![install](../images/install1.png)
+![install](../images/install.png)
 
 Afterward, make sure that application is up and running by pressing *Open in browser* button. 
 
