@@ -39,6 +39,7 @@ nodes:
   cloudlets: 16
   nodeGroup: build
   nodeType: maven
+  tag: 3.5.4-openjdk-11.0.1 
   
 - count: 1
   cloudlets: 8
